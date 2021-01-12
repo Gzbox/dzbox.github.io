@@ -1,2 +1,0 @@
-# dzbox.github.io
-dzbox
